@@ -35,7 +35,7 @@ Questions hope to answer with the data? -
 
 Machine Learning - 
 Present provisional machine learning model that accomplishes the following:
-- Model will take in multiple points of historical financial data (2018-2021) and output a classification of of how productive each organization was over the past few years
+- Unsupervised Model will take in multiple points of historical financial data (2018-2021) and output a classification of of how productive each organization was over the past few years
 - Model will also utilize company size, and whether they offered remote work during these time frames
 - Financial info will include Net Income, Total Revenue, Total Operating Expenses, Gross Profit, and Operating Income
 
