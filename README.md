@@ -20,22 +20,24 @@ spread of the virus. This topic was selected to specifically understand how comp
 affected by the paradigm shift of having a large portion of the workforce suddenly start 
 working from home.
 
-Description of the Source of Data - We are pulling quarterly earnings from Yahoo Finance starting 
-with the first quarter of 2018 through final quarter of 2021 so that we have two years
+Description of the Source of Data - We are pulling annual earnings from Yahoo Finance starting 
+with the beginning of 2018 through the end of 2021 so that we have two years
 of precovid data to compare to postcovid data (2020-2021). BLS is also a great secondary source
 to help explore productivity and cost statistics during the Pandemic.
 
 Questions hope to answer with the data? - 
 - Did remote work affect company earnings during covid vs precovid earnings?
 - Does working remotely save companies money and did it affect quarterly earnings?
+- How did remote work impact worker productivity (measured in financial numbers per employee)
 - Did remote work increase hours logged in to work and thus affect earnings?
-- Need more solid questions...
+- How did remote work impact expenses of an organization?
 
 
 Machine Learning - 
 Present provisional machine learning model that accomplishes the following:
-- Takes in data from provisional database
-- Outputs label for input data
+- Model will take in multiple points of historical financial data (2018-2021) and output a classification of of how productive each organization was over the past few years
+- Model will also utilize company size, and whether they offered remote work during these time frames
+- Financial info will include Net Income, Total Revenue, Total Operating Expenses, Gross Profit, and Operating Income
 
 Dashboard Integration - 
 Present provisional database model that accomplishes the following:
