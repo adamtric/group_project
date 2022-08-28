@@ -48,7 +48,7 @@ Present provisional machine learning model that accomplishes the following:
 ## Dashboard Integration
 Present provisional database model that accomplishes the following:
 - Sample data that mimics expected final database structure or schema
-- Draft machine learning model is connected to the provisional database
+
 
 <img width="683" alt="image" src="https://user-images.githubusercontent.com/102189324/187052038-4a703f00-a8a0-4145-b742-1e892a9dd45d.png">
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/102189324/187052059-20b7c1af-d4f0-44f9-976f-3f42306ae83a.png">
