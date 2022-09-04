@@ -43,13 +43,19 @@ to help explore productivity and cost statistics during the Pandemic. Headcount 
 Present provisional machine learning model that accomplishes the following:
 - Unsupervised Model will take in multiple points of historical financial data (2018-2021) and output a classification of of how productive each organization was over the past few years
 - Model will also utilize company size, and whether they offered remote work during these time frames
-- Financial info will include Net Income, Total Revenue, Total Operating Expenses, Gross Profit, and Operating Income
+- Financial info (per employee) will include Net Income, Total Revenue, Total Operating Expenses, Gross Profit, and Operating Income
 
 ## Dashboard Integration
-Present provisional database model that accomplishes the following:
-- Sample data that mimics expected final database structure or schema
 
+Provisional Database (PG Admin Image)
 
 <img width="683" alt="image" src="https://user-images.githubusercontent.com/102189324/187052038-4a703f00-a8a0-4145-b742-1e892a9dd45d.png">
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/102189324/187052059-20b7c1af-d4f0-44f9-976f-3f42306ae83a.png">
+
+Final Database (PG Admin Image)
+
+![image](https://user-images.githubusercontent.com/102189324/188336164-7ca89b77-656a-4b2c-87c5-e81ebee6b0f0.png)
+<img width="541" alt="image" src="https://user-images.githubusercontent.com/102189324/188336182-4173f706-b41d-443f-ad88-2878860cb3a9.png">
+
+
 
