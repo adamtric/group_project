@@ -57,7 +57,7 @@ Final Database (PG Admin Image)
 ![image](https://user-images.githubusercontent.com/102189324/188336164-7ca89b77-656a-4b2c-87c5-e81ebee6b0f0.png)
 <img width="541" alt="image" src="https://user-images.githubusercontent.com/102189324/188336182-4173f706-b41d-443f-ad88-2878860cb3a9.png">
 
-Dashboard
+## Dashboard
 
 https://docs.google.com/presentation/d/1m2YvaGSmpUc6-TqyvoD3m7YBSXOmTBLeKVGED506_aw/edit#slide=id.g14b66c5f36f_0_2
 
