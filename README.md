@@ -60,5 +60,5 @@ Present provisional machine learning model that accomplishes the following:
 
 ## Dashboard
 
-https://docs.google.com/presentation/d/1m2YvaGSmpUc6-TqyvoD3m7YBSXOmTBLeKVGED506_aw/edit#slide=id.g14b66c5f36f_0_2
+https://docs.google.com/presentation/d/1m2YvaGSmpUc6-TqyvoD3m7YBSXOmTBLeKVGED506_aw/edit#slide=id.p
 
